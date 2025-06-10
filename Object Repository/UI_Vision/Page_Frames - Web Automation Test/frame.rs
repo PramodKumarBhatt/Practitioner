@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>frame</name>
+   <tag></tag>
+   <elementGuidId>123b8e8c-adf0-4645-9441-bd1076d09b7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//frame</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>frame</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>frame >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>frame</value>
+      <webElementGuid>3afb663d-851f-46d1-ade0-952694a4f3fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>frame_1.html</value>
+      <webElementGuid>a298128b-42bc-4fd3-b131-7547dcfb928c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/frameset[1]/frame[1]</value>
+      <webElementGuid>7f408780-68a4-4e5c-a5d8-23d60d848c58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//frame</value>
+      <webElementGuid>dcf6c7c6-4eac-40d5-9708-26e297fcc0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//frame[@src = 'frame_1.html']</value>
+      <webElementGuid>57b2ae7a-4fca-4c3d-a673-7b03f0659d49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

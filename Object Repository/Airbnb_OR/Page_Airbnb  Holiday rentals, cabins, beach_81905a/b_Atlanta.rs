@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Atlanta</name>
+   <tag></tag>
+   <elementGuidId>ba0f78e8-3aff-4adc-ada9-9be45141b342</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b.b1viecjw.atm_cs_19iasv6.dir.dir-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listbox[name=&quot;Search suggestions&quot;i] >> b</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ce8f3134-cf76-4713-80af-a28827269e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b1viecjw atm_cs_19iasv6 dir dir-ltr</value>
+      <webElementGuid>863a8d5c-e009-49ae-9082-65fafea3e305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atlanta</value>
+      <webElementGuid>9ebcc2f4-97e9-4b8d-8e8b-98283370d1e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-application&quot;)/div[1]/div[@class=&quot;t1bgcr6e  cjz5kiq&quot;]/div[1]/div[1]/div[@class=&quot;r9m3m4o atm_eohtre_1wfwpv5 atm_1gwwzir_u29brm atm_eohtre_mm87nz__jx8car atm_1gwwzir_rw9lz9__jx8car dir dir-ltr&quot;]/div[@class=&quot;m1wgxt7p atm_lcucu6_exct8b atm_ys9she_69rp3d__jx8car atm_ys9she_12mkxmp__1z0u2lb atm_lcucu6_1tcgj5g__kgj4qw atm_lcucu6_1tcgj5g__oggzyc atm_lcucu6_1vi7ecw__1v156lz atm_lcucu6_1vi7ecw__qky54b atm_lcucu6_fyhuej__jx8car dir dir-ltr&quot;]/div[@class=&quot;w1hvh9qj atm_mk_1if85x1 atm_tk_idpfg4 atm_vy_1osqo2v atm_wq_zo7u8 atm_h3_1wmurcz whb0xmj atm_e2_n7od8j atm_26_n7od8j atm_3f_n7od8j atm_e2_n7od8j__qky54b dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 atm_9s_1txwivl_vmtskl atm_92_1yyfdc7_vmtskl atm_9s_1txwivl_9in345 atm_92_1yyfdc7_9in345 dir dir-ltr&quot;]/div[1]/header[@class=&quot;c1ftp51f atm_9s_1txwivl atm_fc_1yb4nlp atm_h_1h6ojuz atm_gi_xjk4d9 atm_j3_kecc4u atm_lk_1ph3nq8 atm_ll_1ph3nq8 atm_e2_u29brm atm_j3_1vvhni0__6ldadd atm_lk_n9wab5__1v156lz atm_ll_n9wab5__1v156lz atm_lk_dnsvzo__jx8car atm_ll_dnsvzo__jx8car atm_e2_rw9lz9__jx8car dir dir-ltr&quot;]/form[@class=&quot;f1hztvqy atm_vy_1osqo2v atm_e2_1osqo2v atm_mk_stnw88 atm_tk_idpfg4 atm_fq_idpfg4 atm_lh_ke7zzc atm_wq_idpfg4 dir dir-ltr&quot;]/div[@class=&quot;csjaj27 atm_vy_1osqo2v atm_9s_1txwivl atm_h_1h6ojuz atm_ar_1bp4okc atm_mk_h2mmj6 atm_wq_kb7nvz atm_h3_ftgil2__jx8car dir dir-ltr&quot;]/div[1]/div[@class=&quot;cwxaa06 atm_mk_stnw88 atm_fq_1ssbidh atm_tr_zr6sja atm_j3_1v7idld atm_vy_1osqo2v atm_e2_1k4yqc2 atm_9s_1txwivl atm_5j_1vi7ecw atm_cx_1fwxnve atm_fc_1yb4nlp atm_h_1h6ojuz dir dir-ltr&quot;]/div[@class=&quot;p1gy195r atm_mk_stnw88 atm_vy_1osqo2v atm_e2_1wugsn5 atm_tk_1osqo2v atm_mj_glywfm atm_h3_1fwxnve dir dir-ltr&quot;]/div[@class=&quot;p1nt1a2q atm_mk_stnw88 atm_mj_1rj4a2z atm_aj_19ksii2 atm_8w_1rrkn1e dir dir-ltr&quot;]/div[@class=&quot;pkny13m atm_tw_n17gr9 atm_vy_1osqo2v atm_e2_1osqo2v atm_26_1p8m8iw atm_7i_1qlzsek dir dir-ltr&quot;]/div[@class=&quot;piqlc25 atm_vy_1osqo2v atm_e2_1osqo2v atm_9s_1txwivl atm_fc_1h6ojuz p1tlhulc atm_l8_1cycdsj pgigb2o atm_iy_1p2dahq atm_l1_15zigw atm_l2_1f51e7f atm_p5_p27btl atm_9s_1ulexfb_14pyf7n atm_vy_1skhajo_14pyf7n atm_26_1j28jx2_15m0xli atm_2a_1ntvvq4_1v32vyo atm_2d_1qrrl4z_1v32vyo atm_5j_1skhajo_1v32vyo atm_3f_1p8s0ws_1v32vyo atm_h3_1pa919l_1s8n6b atm_gq_1pa919l_he8sou dir dir-ltr&quot;]/div[@id=&quot;bigsearch-query-location-listbox&quot;]/div[@id=&quot;bigsearch-query-location-suggestion-0&quot;]/div[@class=&quot;t142a8it atm_j_1h6ojuz dir dir-ltr&quot;]/div[@class=&quot;t5i37sl atm_7l_jt7fhx atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k dir dir-ltr&quot;]/b[@class=&quot;b1viecjw atm_cs_19iasv6 dir dir-ltr&quot;]</value>
+      <webElementGuid>49998b52-a3e9-468d-bd4c-709221067e1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div/b</value>
+      <webElementGuid>65ab62fa-9ff7-4c2d-9560-bfee2500eac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::b[1]</value>
+      <webElementGuid>887a4980-cc93-4a1c-8a81-51c7aedbb855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add guests'])[1]/following::b[1]</value>
+      <webElementGuid>7549a1ab-2ddb-4aae-9da5-f814d3d4e515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=', Georgia, United States'])[1]/preceding::b[1]</value>
+      <webElementGuid>7a21e5d6-afb2-4c83-8fcd-838e0c238649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downtown Atlanta'])[1]/preceding::b[1]</value>
+      <webElementGuid>a77a0c9d-768f-463a-91c4-0a34c9cc0a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Atlanta']/parent::*</value>
+      <webElementGuid>4951d2c4-a13f-43ab-91cc-5a984d45c377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>120c63a6-917c-4fd9-ba94-27cedbdae91c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Atlanta' or . = 'Atlanta')]</value>
+      <webElementGuid>c11a7dd2-1335-4ce4-947b-623fd88697a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

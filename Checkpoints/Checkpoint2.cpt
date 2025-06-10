@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint2</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>D:\KS\Data Driven Test Data_Orange HRM.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2025-06-10T08:06:08.831+05:30</taken-date>
+   <column-names>
+      <column-name>userName</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "admin",
+      "checked": true
+    },
+    {
+      "value": "admin",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "admin123",
+      "checked": true
+    },
+    {
+      "value": "admin123",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "admin12334",
+      "checked": true
+    },
+    {
+      "value": "admin",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "admin",
+      "checked": false
+    },
+    {
+      "value": "admin123",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

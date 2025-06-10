@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Sanity</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>261671b5-089e-4d30-80e8-90ea386f2d0e</testSuiteGuid>
+   <testCaseLink>
+      <guid>8b500947-e877-4da7-85b6-6dc6aaa761bb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AirbnbDemo/Find a place</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>01badc1c-754d-4d48-92d9-eb222da65fe9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/100 cities</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>01badc1c-754d-4d48-92d9-eb222da65fe9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
+         <variableId>fbc71c88-1a87-4b2c-a89c-edbee831612a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>01badc1c-754d-4d48-92d9-eb222da65fe9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Result</value>
+         <variableId>5a5aa52e-b2d1-4174-9afa-1c896892f3e4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint01</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/OrangeHRM</source-url>
+   </source-info>
+   <taken-date>2025-06-09T17:46:48.319+05:30</taken-date>
+   <column-names>
+      <column-name>userName</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "admin",
+      "checked": true
+    },
+    {
+      "value": "admin",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "admin123",
+      "checked": true
+    },
+    {
+      "value": "admin123",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "admin123",
+      "checked": true
+    },
+    {
+      "value": "admin",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "admin",
+      "checked": false
+    },
+    {
+      "value": "admin123",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

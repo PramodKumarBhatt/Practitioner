@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchProductName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59347acf-9c61-43ed-a3ff-33c6dedb850b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e01f1efd-3e1c-4d34-9a0f-647bb659d6a2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ADIDAS ORIGINAL\r\n'</defaultValue>
+      <description></description>
+      <id>e01f1efd-3e1c-4d34-9a0f-647bb659d6a2</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+</TestCaseEntity>

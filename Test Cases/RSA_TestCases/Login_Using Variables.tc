@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Using Variables</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f82ab7b3-5116-4e26-af90-dda0d7aa1ada</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87067115-ab0d-4109-93bc-f01499453803</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7ee80b4-e448-4771-a21d-6263de35e07e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ffab130-643e-4585-8bb0-4076107004aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://rahulshettyacademy.com/client'</defaultValue>
+      <description></description>
+      <id>87067115-ab0d-4109-93bc-f01499453803</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'bhattpramod123@gmail.com'</defaultValue>
+      <description></description>
+      <id>e7ee80b4-e448-4771-a21d-6263de35e07e</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tester'</defaultValue>
+      <description></description>
+      <id>1ffab130-643e-4585-8bb0-4076107004aa</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

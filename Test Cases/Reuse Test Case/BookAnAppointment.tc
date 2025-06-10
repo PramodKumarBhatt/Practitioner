@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BookAnAppointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f5bc24a-5b39-40de-8499-aaa8d80b565e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>09c05f86-1463-4dfb-95c6-55b979a39977</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>768c2354-dc6c-4fca-a82a-0f6285cbcaa2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>09c05f86-1463-4dfb-95c6-55b979a39977</id>
+      <masked>false</masked>
+      <name>Facility_Var</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is my comments for testing purpose.'</defaultValue>
+      <description></description>
+      <id>768c2354-dc6c-4fca-a82a-0f6285cbcaa2</id>
+      <masked>false</masked>
+      <name>Comment_Var</name>
+   </variable>
+</TestCaseEntity>

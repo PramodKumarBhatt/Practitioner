@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PrintAllProductsNames</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>478d1154-e2aa-4ed0-b7c9-c094da805581</testCaseGuid>
+</TestCaseEntity>
